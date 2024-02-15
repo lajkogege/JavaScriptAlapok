@@ -38,10 +38,12 @@ for (let index = 0; index < 11; index++) {
 }
 }
 
+
+function ciklus2(){
 /* ciklusok használata: Irjuk ki 10szer a konzolra hogy "Szép nap van" while ciklussal */
 let index=0;
 while (index <10) {
     console.log(` ${index}. Szép nap van`);
     index++;
-    
+}
 }
